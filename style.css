@@ -1,0 +1,51 @@
+html, body{
+    height: 100%;
+    width: auto;
+}
+body{
+    background: url(/home/nadola/Downloads/binary.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-color: black;*/
+}
+a{
+    padding: 200px;
+    color: black;
+    font-size: 2em;
+}
+#home{
+    text-align: center;
+}
+#home img{
+    margin: auto;
+}
+#about{
+    text-align: center;
+}
+#contact{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+h1{
+    font-size: 3em;
+    font-style: italic;
+    color: black;
+}
+h2{
+    font-size: 0.5;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 1.5em;
+    color: black;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 1.5em;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
